@@ -1,0 +1,19 @@
+
+#my-style {
+  width: 150px;
+  height: 200px;
+  background: #f2f2f2;
+}
+
+.custoButton{
+  padding: 10px;
+  background-color: #c7ddff;
+  margin-top: 70px;
+  margin-left: 15%;
+  display: inline-block;
+}
+
+#addButton{
+  margin-left: 15%;
+  margin-top: 30px 
+}

@@ -1,0 +1,6 @@
+.card-body p{
+    display: inline-block;
+}
+.card-body p:hover{
+    cursor: pointer;
+}

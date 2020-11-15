@@ -1,0 +1,14 @@
+.filter-form {
+  margin-bottom: 40px;
+  width: calc(70% - 200px);
+
+}
+.searchForm{
+  margin-top: 70px;
+  margin-right: 15%;
+  float: right;
+}
+
+.smallSearchInput{
+  height: 48px;
+}

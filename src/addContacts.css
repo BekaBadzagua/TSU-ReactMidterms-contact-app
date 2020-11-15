@@ -1,0 +1,9 @@
+.ErrorMassageWrapper{
+    background-color: #fbcccf;
+}
+.ErrorMassageWrapper ul{
+    color: #ff0000
+}
+/* .ErrorMassageWrapper li{
+
+} */

@@ -1,0 +1,17 @@
+
+.detailedSearchContainer {
+    width: 70%;
+    margin: auto;
+}
+.detailedSearchContainer .filter-form{
+    width: 100%;
+}
+
+.input-wrapper{
+    width: 100%;
+    margin-bottom: 30px
+}
+
+.detailedSearchContainer h5{
+    margin: 10px;
+}
